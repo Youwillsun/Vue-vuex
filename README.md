@@ -36,3 +36,6 @@ vuex仓储在main.js里进行了定义【后期会抽出去】
 vuex 的仓储代码抽里出去之后，放到了store.js里，并在这个js里重新引用了vue和vuex，并暴露了store对象
 
 对store进行了分类，分别放置到了app.js中和user.js中，并在store.js里进行了引用
+
+### 代码讲解笔记CSDN地址
+see [CSDN-Vuex](https://blog.csdn.net/s_y_w123/article/details/103016171)
